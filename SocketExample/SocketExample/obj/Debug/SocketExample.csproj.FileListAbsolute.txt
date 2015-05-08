@@ -1,0 +1,40 @@
+c:\users\mixxx911\documents\visual studio 2013\Projects\SocketExample\SocketExample\bin\Debug\SocketExample.exe.config
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExample\SocketExample\bin\Debug\SocketExample.exe
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExample\SocketExample\bin\Debug\SocketExample.pdb
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExample\SocketExample\obj\Debug\SocketExample.csprojResolveAssemblyReference.cache
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExample\SocketExample\obj\Debug\SocketExample.Form1.resources
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExample\SocketExample\obj\Debug\SocketExample.Properties.Resources.resources
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExample\SocketExample\obj\Debug\SocketExample.csproj.GenerateResource.Cache
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExample\SocketExample\obj\Debug\SocketExample.exe
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExample\SocketExample\obj\Debug\SocketExample.pdb
+E:\SocketExample\SocketExample\bin\Debug\SocketExample.exe.config
+E:\SocketExample\SocketExample\obj\Debug\SocketExample.exe
+E:\SocketExample\SocketExample\obj\Debug\SocketExample.pdb
+E:\SocketExample\SocketExample\obj\Debug\SocketExample.csprojResolveAssemblyReference.cache
+E:\SocketExample\SocketExample\obj\Debug\SocketExample.Form1.resources
+E:\SocketExample\SocketExample\obj\Debug\SocketExample.Form2.resources
+E:\SocketExample\SocketExample\obj\Debug\SocketExample.Properties.Resources.resources
+E:\SocketExample\SocketExample\obj\Debug\SocketExample.csproj.GenerateResource.Cache
+E:\SocketExample\SocketExample\bin\Debug\SocketExample.exe
+E:\SocketExample\SocketExample\bin\Debug\SocketExample.pdb
+C:\Users\mixxx911\Desktop\SocketExample\SocketExample\bin\Debug\SocketExample.exe.config
+C:\Users\mixxx911\Desktop\SocketExample\SocketExample\obj\Debug\SocketExample.exe
+C:\Users\mixxx911\Desktop\SocketExample\SocketExample\obj\Debug\SocketExample.pdb
+C:\Users\Andrea\Desktop\Prog pds\SocketExample\SocketExample\bin\Debug\SocketExample.exe.config
+C:\Users\Andrea\Desktop\Prog pds\SocketExample\SocketExample\obj\Debug\SocketExample.exe
+C:\Users\Andrea\Desktop\Prog pds\SocketExample\SocketExample\obj\Debug\SocketExample.pdb
+C:\Users\Andrea\Desktop\Prog pds\SocketExample\SocketExample\bin\Debug\SocketExample.exe
+C:\Users\Andrea\Desktop\Prog pds\SocketExample\SocketExample\bin\Debug\SocketExample.pdb
+C:\Users\Andrea\Desktop\Prog pds\SocketExample\SocketExample\obj\Debug\SocketExample.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Prog pds\SocketExample\SocketExample\obj\Debug\SocketExample.Form1.resources
+C:\Users\Andrea\Desktop\Prog pds\SocketExample\SocketExample\obj\Debug\SocketExample.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Prog pds\SocketExample\SocketExample\obj\Debug\SocketExample.csproj.GenerateResource.Cache
+C:\Users\Antonella\Desktop\SocketExample\SocketExample\bin\Debug\SocketExample.exe.config
+C:\Users\Antonella\Desktop\SocketExample\SocketExample\bin\Debug\SocketExample.exe
+C:\Users\Antonella\Desktop\SocketExample\SocketExample\bin\Debug\SocketExample.pdb
+C:\Users\Antonella\Desktop\SocketExample\SocketExample\obj\Debug\SocketExample.csprojResolveAssemblyReference.cache
+C:\Users\Antonella\Desktop\SocketExample\SocketExample\obj\Debug\SocketExample.Properties.Resources.resources
+C:\Users\Antonella\Desktop\SocketExample\SocketExample\obj\Debug\SocketExample.csproj.GenerateResource.Cache
+C:\Users\Antonella\Desktop\SocketExample\SocketExample\obj\Debug\SocketExample.exe
+C:\Users\Antonella\Desktop\SocketExample\SocketExample\obj\Debug\SocketExample.pdb
+C:\Users\Antonella\Desktop\SocketExample\SocketExample\obj\Debug\SocketExample.ServerWindow.resources

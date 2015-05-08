@@ -1,0 +1,30 @@
+\\MAURO-PC\Users\mixxx911\Documents\Visual Studio 2013\Projects\SocketExampleClient\SocketExampleClient\bin\Debug\SocketExampleClient.exe.config
+\\MAURO-PC\Users\mixxx911\Documents\Visual Studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.exe
+\\MAURO-PC\Users\mixxx911\Documents\Visual Studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.pdb
+\\MAURO-PC\Users\mixxx911\Documents\Visual Studio 2013\Projects\SocketExampleClient\SocketExampleClient\bin\Debug\SocketExampleClient.exe
+\\MAURO-PC\Users\mixxx911\Documents\Visual Studio 2013\Projects\SocketExampleClient\SocketExampleClient\bin\Debug\SocketExampleClient.pdb
+\\MAURO-PC\Users\mixxx911\Documents\Visual Studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.csprojResolveAssemblyReference.cache
+\\MAURO-PC\Users\mixxx911\Documents\Visual Studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.Form1.resources
+\\MAURO-PC\Users\mixxx911\Documents\Visual Studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.Properties.Resources.resources
+\\MAURO-PC\Users\mixxx911\Documents\Visual Studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.ServerParameters.resources
+\\MAURO-PC\Users\mixxx911\Documents\Visual Studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.csproj.GenerateResource.Cache
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExampleClient\SocketExampleClient\bin\Debug\SocketExampleClient.exe.config
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExampleClient\SocketExampleClient\bin\Debug\SocketExampleClient.exe
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExampleClient\SocketExampleClient\bin\Debug\SocketExampleClient.pdb
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.Form1.resources
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.Properties.Resources.resources
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.ServerParameters.resources
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.csproj.GenerateResource.Cache
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.exe
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.pdb
+C:\Users\mixxx911\documents\visual studio 2013\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.csprojResolveAssemblyReference.cache
+F:\Downloads\Projects\SocketExampleClient\SocketExampleClient\bin\Debug\SocketExampleClient.exe.config
+F:\Downloads\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.exe
+F:\Downloads\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.pdb
+F:\Downloads\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.csprojResolveAssemblyReference.cache
+F:\Downloads\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.Form1.resources
+F:\Downloads\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.Properties.Resources.resources
+F:\Downloads\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.ServerParameters.resources
+F:\Downloads\Projects\SocketExampleClient\SocketExampleClient\obj\Debug\SocketExampleClient.csproj.GenerateResource.Cache
+F:\Downloads\Projects\SocketExampleClient\SocketExampleClient\bin\Debug\SocketExampleClient.exe
+F:\Downloads\Projects\SocketExampleClient\SocketExampleClient\bin\Debug\SocketExampleClient.pdb
